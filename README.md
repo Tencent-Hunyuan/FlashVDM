@@ -22,6 +22,12 @@ https://github.com/user-attachments/assets/a2cbc5b8-be22-49d7-b1c3-7aa2b20ba460
   <a href=https://x.com/TencentHunyuan target="_blank"><img src=https://img.shields.io/badge/Hunyuan-black.svg?logo=x height=22px></a>
 </div>
 
+## News
+
+- **[2025-07-29]**: Released ULIP and Uni3D evaluation [code](evaluation/).
+- **[2025-06-27]**: FlashVDM is accepted by ICCV 2025 as highlight paper.
+- **[2025-03-19]**: FlashVDM is released and integrated into [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2).
+
 
 ## What is FlashVDM?
 FlashVDM is a general framework for accelerating shape generation Vecset Diffusion Model (VDM), such as [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2), [Michelangelo](https://github.com/NeuralCarver/Michelangelo), [CraftsMan3D](https://github.com/wyysf-98/CraftsMan3D), [CLAY](https://github.com/CLAY-3D/OpenCLAY), [TripoSG](https://arxiv.org/abs/2502.06608), [Dora](https://github.com/Seed3D/Dora) and etc.
