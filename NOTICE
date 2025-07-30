@@ -2,7 +2,7 @@ Usage and Legal Notices:
 
 Tencent is pleased to support the open source community by making Tencent Hunyuan FlashVDM available.
 
-Copyright (C) 2025 THL A29 Limited, a Tencent company.  All rights reserved. The below software and/or models in this distribution may have been modified by THL A29 Limited ("Tencent Modifications"). All Tencent Modifications are Copyright (C) THL A29 Limited.
+Copyright (C) 2025 Tencent.  All rights reserved. The below software and/or models in this distribution may have been modified by Tencent ("Tencent Modifications"). All Tencent Modifications are Copyright (C) Tencent.
 
 Tencent Hunyuan FlashVDM is licensed under the TENCENT HUNYUAN FLASHVDM  COMMUNITY LICENSE AGREEMENT except for the third-party components listed below, which is licensed under different terms. Tencent Hunyuan FlashVDM does not impose any additional limitations beyond what is outlined in the respective licenses of these third-party components. Users must comply with all terms and conditions of original licenses of these third-party components and must ensure that the usage of the third party components adheres to all relevant laws and regulations. 
 
@@ -126,7 +126,7 @@ You agree not to use the Model or Derivatives of the Model:
 Open Source Model Licensed under the TENCENT HUNYUAN COMMUNITY LICENSE AGREEMENT and Other Licenses of the Third-Party Components therein:
 --------------------------------------------------------------------
 1. HunyuanDiT
-Copyright (C) 2024 THL A29 Limited, a Tencent company.  All rights reserved. 
+Copyright (C) 2024 Tencent.  All rights reserved. 
 
 
 Terms of the TENCENT HUNYUAN COMMUNITY LICENSE AGREEMENT:
@@ -143,7 +143,7 @@ e.	“Licensee,” “You” or “Your” shall mean a natural person or legal 
 f.	“Materials” shall mean, collectively, Tencent’s proprietary Tencent Hunyuan and Documentation (and any portion thereof) as made available by Tencent under this Agreement.
 g.	“Model Derivatives” shall mean all: (i) modifications to Tencent Hunyuan or any Model Derivative of Tencent Hunyuan; (ii) works based on Tencent Hunyuan or any Model Derivative of Tencent Hunyuan; or (iii) any other machine learning model which is created by transfer of patterns of the weights, parameters, operations, or Output of Tencent Hunyuan or any Model Derivative of Tencent Hunyuan, to that model in order to cause that model to perform similarly to Tencent Hunyuan or a Model Derivative of Tencent Hunyuan, including distillation methods, methods that use intermediate data representations, or methods based on the generation of synthetic data Outputs by Tencent Hunyuan or a Model Derivative of Tencent Hunyuan for training that model. For clarity, Outputs by themselves are not deemed Model Derivatives.
 h.	“Output” shall mean the information and/or content output of Tencent Hunyuan or a Model Derivative that results from operating or otherwise using Tencent Hunyuan or a Model Derivative, including via a Hosted Service.
-i.	“Tencent,” “We” or “Us” shall mean THL A29 Limited.
+i.	“Tencent,” “We” or “Us” shall mean Tencent.
 j.	“Tencent Hunyuan” shall mean the large language models, image/video/audio/3D generation models, and multimodal large language models and their software and algorithms, including trained model weights, parameters (including optimizer states), machine-learning model code, inference-enabling code, training-enabling code, fine-tuning enabling code and other elements of the foregoing made publicly available by Us at  https://huggingface.co/Tencent-Hunyuan/HunyuanDiT and https://github.com/Tencent/HunyuanDiT .
 k.	“Tencent Hunyuan Works” shall mean: (i) the Materials; (ii) Model Derivatives; and (iii) all derivative works thereof.
 l.	“Third Party” or “Third Parties” shall mean individuals or legal entities that are not under common control with Us or You.
